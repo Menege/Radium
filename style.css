@@ -1,0 +1,16 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    cursor: pointer;
+    display: block;
+}
+
+.text:hover{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chocolate;
+}
